@@ -31,11 +31,11 @@ Ce semestre devrait être une introduction à l'intelligence artificielle et aux
 
 - **Représentation des connaissances et raisonnement 1 :** Bien que ce module introduise des notions intéressante, nous pensons qu'il est inutile d'avoir RCR 1 et RCR 2. Nous pensons que RCR 1 suffit largement. Nous proposons de remplacer RCR 1 ou RCR 2 par le module **"Théorie de l'information"** qui introduit des notions très importantes en intelligence artificielle comme l'entropie. En même, cela reste dans la même thématique que RCR.
 
-- **Technologie des agents :** Ce module est assez bien, nous demandons de mettre plus l'accent sur le Reinforcement Learning et le Deep Reinforcement Learning.
+- **Technologie des agents :** Ce module est assez bien, nous demandons de mettre plus l'accent sur le Reinforcement Learning et le Deep Reinforcement Learning. Et avec un TP plus consistant ou les différents types d’agent enseigné en cours seront mis en pratique au lieu de limiter le TP uniquement aux systèmes experts et multi-agent.
 
-- **Commerce électronique et services web :** Le "e-commerce" n'est qu'un cas spécifique du développement web. Nous proposons de le renommer en **"Dev Web"** où des frameworks modernes comme : **FAST API**, **Django** et **Vue.js** seront enseignés. En effet, les Data scientist doivent être de bons développeurs afin qu'ils puissent présenter et déployer leurs résultats de la meilleure manière possible. Nous demandons que la notion de API REST, soit enseigné, ainsi que tous les outils nécessaires au développement et au déploiement, comme : git, docker, et Kubernetes, ainsi que toutes les bonnes pratiques de développement. Inutile de perdre une seule minute à   enseigner Axis et J2EE qui sont des outils presque totalement inutilisés. Aussi, Il faudrait enlever le chapitre "Théorie des jeux" car il est déjà enseigné dans le module "Technologie des agents". Encore une fois, il est important à veiller à ce que les modules ne rentrent pas en conflit.
+- **Commerce électronique et services web :** Le "e-commerce" n'est qu'un cas spécifique du développement web. Nous proposons de le renommer en **"Web avancé"** où des frameworks modernes comme : **FAST API**, **Django** et **Vue.js** seront enseignés. En effet, les Data scientist doivent être de bons développeurs afin qu'ils puissent présenter et déployer leurs résultats de la meilleure manière possible. Nous demandons que la notion de API REST, soit plus mise en avant au détriment du service web soap. Et une introduction aux micro services serait un plus non négligeable, ainsi que tous les outils nécessaires au développement et au déploiement, comme : git, docker, et Kubernetes, ainsi que toutes les bonnes pratiques de développement. Inutile de perdre une seule minute à   enseigner Axis et J2EE qui sont des outils presque totalement inutilisés. Aussi, Il faudrait enlever le chapitre "Théorie des jeux" car il est déjà enseigné dans le module "Technologie des agents". Encore une fois, il est important à veiller à ce que les modules ne rentrent pas en conflit.
 
-- **Bases de données avancées :** Bon module, nous demandons juste à introduire la notion de cloud computing qui est très importante en ce moment.
+- **Bases de données avancées :** Bon module, nous demandons juste à approfondir la partie Big data du module. Une introduction à la notion de cloud computing qui est très importante en ce moment serait aussi un grand plus.
 
 - **Sécurité informatique :** Module intéressant, cependant, nous demandons à faire moins de cryptographie et de plus nous introduire aux vulnérabilités des applications web et comment les éviter.
 
@@ -50,7 +50,7 @@ Ce semestre devrait être consacré à l'utilisation des connaissances acquises 
 
 - **Data Mining :** Le module est très intéressant, cependant, au lieu de faire du data mining, nous passons la majorité de notre temps à refaire des notions vu dans d'autre module, à savoir ; résolution de problème et machine learning. Ce qui est une perte de temps et nous empêche de nous approfondir dans le Data mining. Nous demandons donc à ce que le module soit consacré au data mining uniquement.
 
-- **Représentation de connaissances et raisonnement 2 :** Comme expliqué précédemment, nous demandons à ce que soit RCR1 ou RCR2 soit remplacé par le module **"Théorie de l'information"**.
+- **Représentation de connaissances et raisonnement 2 :** Comme expliqué précédemment, nous demandons à ce que soit RCR1 ou RCR2 soit remplacé par le module **"Théorie de l'information"**. Par conséquent, remplacer ce module durant le 3 ème semestre par un module de MLOps serait préférable.
 
 - **OCR :** Nous pensons que c'était une grave erreur de remplacer le module **NLP** par OCR. Car OCR n'est qu'une application du module **vision artificielle**.  Nous demandons donc que le module **NLP** soit rétabli au plus vite.
 
@@ -59,4 +59,4 @@ Ce semestre devrait être consacré à l'utilisation des connaissances acquises 
 
 - **Pour le module d'anglais**, il est inutile d'enseigner des leçons de grammaire. Nous pensons qu'il serait mieux de remplacer les cours traditionnels par des sessions de discussion en anglais par petits groupes, et que l'examen soit similaire au test **IELTS**.
 
-- **En ce qui concerne TP :** Veuillez SVP arrêter l'utilisation de JAVA, et préféré l'utilisation du langage **PYTHON** et de toutes les librairies qui viennent avec.
+- **En ce qui concerne TP :** Veuillez SVP arrêter l'utilisation de JAVA, et préféré l'utilisation du langage **PYTHON** et de toutes les librairies qui viennent avec. Une amélioration considérable de l’implication et la qualité des TP a été remarqué cette année par le passage de certain TP de java vers python a été remarqué, il est donc important de généraliser ça pour l’ensemble des modules.
