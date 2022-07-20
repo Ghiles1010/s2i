@@ -55,7 +55,7 @@ Ce semestre devrait être consacré à l'utilisation des connaissances acquises 
 - **OCR :** Nous pensons que c'était une grave erreur de remplacer le module **NLP** par OCR. Car OCR n'est qu'une application du module **vision artificielle**.  Nous demandons donc que le module **NLP** soit rétabli au plus vite.
 
 
-## Remarques générales :
+## Remarques générales
 
 - **Pour le module d'anglais**, il est inutile d'enseigner des leçons de grammaire. Nous pensons qu'il serait mieux de remplacer les cours traditionnels par des sessions de discussion en anglais par petits groupes, et que l'examen soit similaire au test **IELTS**.
 
