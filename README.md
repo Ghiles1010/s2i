@@ -60,4 +60,8 @@ Ce semestre devrait être consacré à l'utilisation des connaissances acquises 
 - **Pour le module d'anglais**, il est inutile d'enseigner des leçons de grammaire. Nous pensons qu'il serait mieux de remplacer les cours traditionnels par des sessions de discussion en anglais par petits groupes, et que l'examen soit similaire au test **IELTS**.
 
 - **En ce qui concerne TP :** Veuillez SVP arrêter l'utilisation de JAVA, et préféré l'utilisation du langage **PYTHON** et de toutes les librairies qui viennent avec. Une amélioration considérable de l’implication et la qualité des TP a été remarqué cette année par le passage de certain TP de java vers python a été remarqué, il est donc important de généraliser ça pour l’ensemble des modules.
-- Il est important que les responsable de spécialité veille à ce que les modules soient complémentaire et non conflituels. Car dans l'état actuel du programme, beaucoup de chapitres sont ensigné en double dans des modules différents.
+
+- Il est important que les responsables de spécialité veillent à ce que les modules soient complémentaires et non conflictuels. Car dans l'état actuel du programme, beaucoup de chapitres sont enseignés en double dans des modules différents.
+
+- Nous sommes conscients qu'il est peut-être difficile pour les professeurs de changer le contenu de leur module. Cependant, c'est un effort nécessaire, et nous préférons être introduit aux nouvelles technologies quitte à ce que le cours ne soit pas parfait. L'enseignant pourra le peaufiner au fil des années.
+
