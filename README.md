@@ -39,7 +39,7 @@ Ce semestre devrait être une introduction à l'intelligence artificielle et aux
 
 - **Sécurité informatique :** Module intéressant, cependant, nous demandons à faire moins de cryptographie et de plus nous introduire aux vulnérabilités des applications web et comment les éviter.
 
-## Troisième Semestre
+## Troisième semestre
 Ce semestre devrait être consacré à l'utilisation des connaissances acquises pour des applications spécifiques de l'IA.
 
 - **Vision artificielle** : Très bon module. Pas de remarques particulières.
